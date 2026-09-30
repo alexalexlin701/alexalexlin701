@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Kuan-Hung Yeh
 A humble and curious learner with broad interests spanning artificial intelligence, integrated circuits, computer science, psychology, neuroscience, music, and emerging technologies. I enjoy exploring abstract concepts, building things, and connecting ideas across different fields.
-Outside of engineering, I enjoy singing, making music, running, and watching videos. I’m currently learning piano and Japanese.
 
 
 <!--
